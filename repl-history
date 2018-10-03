@@ -1,1 +1,0 @@
-(migrate {:*clash* "stays", :MOVE 2} :*clash* :MOVE {:*clash* "also* stays"})
